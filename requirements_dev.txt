@@ -1,8 +1,9 @@
-bentoml
-torchvision
-joblib
-tqdm
-pip-chill
+bentoml==1.0.10
+torchvision==0.14.1
+joblib==1.2.0
+tqdm==4.64.1
+pip-chill==1.0.1
+typing==3.7.4
 wincertstore
 dvc
 mlflow
